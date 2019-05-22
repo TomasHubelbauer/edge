@@ -17,3 +17,5 @@ To disable it, go to:
 `edge://flags/#automatic-tab-discarding`
 
 Switch the value to *Disabled* and restart Edge.
+
+To verify this feature is actually disabled, you can go to `edge://discards` at any time and consult the *Discard Count* column.
