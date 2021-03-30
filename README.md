@@ -33,3 +33,15 @@ any time and consult the *Discard Count* column.
 ## <kbd>Alt+Tab</kbd> Interference
 
 Windows > Settings > System > Multitasking > Alt+Tab > Open Windows Only
+
+## To-Do
+
+### Test out the hack to disabled Restore Pages
+
+https://www.laptopmag.com/articles/edge-browser-stop-tab-restore
+
+Hopefully that message can be turned off, because Edge asks it every time it is
+not closed explicitly, but instead by restarting the computer etc. The problem
+is it restores even pinned tabs, so every time this modal is accepted, the tabs
+that are pinned and already open, double up so you have twice the amount of
+pinned tabs. That's too annoying to keep this feature turned on.
