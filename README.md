@@ -26,3 +26,7 @@ Switch the value to *Disabled* and restart Edge.
 
 To verify this feature is actually disabled, you can go to `edge://discards` at any time
 and consult the *Discard Count* column.
+
+## <kbd>Alt+Tab</kbd> Interference
+
+Windows > Settings > System > Multitasking > Alt+Tab > Open Windows Only
