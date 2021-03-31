@@ -45,3 +45,5 @@ not closed explicitly, but instead by restarting the computer etc. The problem
 is it restores even pinned tabs, so every time this modal is accepted, the tabs
 that are pinned and already open, double up so you have twice the amount of
 pinned tabs. That's too annoying to keep this feature turned on.
+
+https://microsoft.visualstudio.com/Edge/_workitems/edit/32212309
